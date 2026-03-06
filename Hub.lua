@@ -1,1 +1,1 @@
-print("Hub ทำงานแล้ว")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/USERNAME/roblox-hub/main/Hub.lua"))()
